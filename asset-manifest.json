@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lucashrr100.github.io/first-react-project/static/css/main.f420b21e.css",
+    "main.js": "/lucashrr100.github.io/first-react-project/static/js/main.2081d4da.js",
+    "static/js/787.bb813c9e.chunk.js": "/lucashrr100.github.io/first-react-project/static/js/787.bb813c9e.chunk.js",
+    "index.html": "/lucashrr100.github.io/first-react-project/index.html",
+    "main.f420b21e.css.map": "/lucashrr100.github.io/first-react-project/static/css/main.f420b21e.css.map",
+    "main.2081d4da.js.map": "/lucashrr100.github.io/first-react-project/static/js/main.2081d4da.js.map",
+    "787.bb813c9e.chunk.js.map": "/lucashrr100.github.io/first-react-project/static/js/787.bb813c9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f420b21e.css",
+    "static/js/main.2081d4da.js"
+  ]
+}
